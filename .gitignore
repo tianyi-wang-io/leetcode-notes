@@ -1,0 +1,38 @@
+# Ignore notebook files
+*.ipynb
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore node modules
+node_modules/
+
+# Ignore log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore environment files
+.env
+.env.local
+
+# Ignore compiled output
+*.out
+*.class
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+~*
+
+# Ignore IDE/project files
+.vscode/
+.idea/
+*.iml
