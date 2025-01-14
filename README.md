@@ -11,4 +11,6 @@
 - `55. Jump Game.md`
 - `56. Merge Intervals.md`
 - `59. Spiral Matrix II.md`
+- `62. Unique Paths.md`
+- `64. Minimum Path Sum.md`
 
