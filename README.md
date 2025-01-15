@@ -1,4 +1,6 @@
-# Personal Notes for Leetcoding. 
+# :computer: Notes for Leetcoding. :smirk: 
+
+Total Problems: 16 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
