@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :smirk: 
 
-Total Problems: 17 
+Total Problems: 18 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -20,6 +20,7 @@ Total Problems: 17
 - [78. Subsets](./array/78.%20Subsets.md)
 - [79. Word Search](./array/79.%20Word%20Search.md)
 - [84. Largest Rectangle in Histogram](./array/84.%20Largest%20Rectangle%20in%20Histogram.md)
+- [88. Merge Sorted Array](./array/88.%20Merge%20Sorted%20Array.md)
 
 
 ## Binary Search
