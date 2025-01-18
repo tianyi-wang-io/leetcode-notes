@@ -2,10 +2,6 @@
 
 Total Problems: 24 
 
-## Tree
-- [105. Construct Binary Tree from Preorder and Inorder Traversal](./tree/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
-
-
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
 - [121. Best Time to Buy and Sell Stock](./array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
@@ -30,6 +26,10 @@ Total Problems: 24
 - [88. Merge Sorted Array](./array/88.%20Merge%20Sorted%20Array.md)
 
 
+## Backtracking
+- [78. Subsets](./backtracking/78.%20Subsets.md)
+
+
 ## Binary Search
 - [153. Find Minimum in Rotated Sorted Array](./binary_search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 - [162. Find Peak Element](./binary_search/162.%20Find%20Peak%20Element.md)
@@ -37,12 +37,12 @@ Total Problems: 24
 - [34. Find First and Last Position of Element in Sorted Array](./binary_search/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
 
 
-## Backtracking
-- [78. Subsets](./backtracking/78.%20Subsets.md)
-
-
 ## Dynamic Programming
 - [152. Maximum Product Subarray](./dynamic_programming/152.%20Maximum%20Product%20Subarray.md)
 - [55. Jump Game](./dynamic_programming/55.%20Jump%20Game.md)
 - [64. Minimum Path Sum](./dynamic_programming/64.%20Minimum%20Path%20Sum.md)
+
+
+## Tree
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](./tree/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
 
