@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :smirk: 
 
-Total Problems: 29 
+Total Problems: 33 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -23,6 +23,8 @@ Total Problems: 29
 - [228. Summary Ranges](./array/228.%20Summary%20Ranges.md)
 - [238. Product of Array Except Self](./array/238.%20Product%20of%20Array%20Except%20Self.md)
 - [259. 3Sum Smaller](./array/259.%203Sum%20Smaller.md)
+- [280. Wiggle Sort](./array/280.%20Wiggle%20Sort.md)
+- [287. Find the Duplicate Number](./array/287.%20Find%20the%20Duplicate%20Number.md)
 
 
 ## Backtracking
@@ -43,5 +45,7 @@ Total Problems: 29
 
 
 ## Tree
+- [94. Binary Tree Inorder Traversal](./tree/94.%20Binary%20Tree%20Inorder%20Traversal.md)
+- [96. Unique Binary Search Trees](./tree/96.%20Unique%20Binary%20Search%20Trees.md)
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](./tree/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
 
