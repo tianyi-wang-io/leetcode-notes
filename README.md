@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :smirk: 
 
-Total Problems: 33 
+Total Problems: 35 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -47,5 +47,7 @@ Total Problems: 33
 ## Tree
 - [94. Binary Tree Inorder Traversal](./tree/94.%20Binary%20Tree%20Inorder%20Traversal.md)
 - [96. Unique Binary Search Trees](./tree/96.%20Unique%20Binary%20Search%20Trees.md)
+- [98. Validate Binary Search Tree](./tree/98.%20Validate%20Binary%20Search%20Tree.md)
+- [101. Symmetric Tree](./tree/101.%20Symmetric%20Tree.md)
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](./tree/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
 
