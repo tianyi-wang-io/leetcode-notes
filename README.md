@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :smirk: 
 
-Total Problems: 42 
+Total Problems: 46 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -25,6 +25,8 @@ Total Problems: 42
 - [259. 3Sum Smaller](./array/259.%203Sum%20Smaller.md)
 - [280. Wiggle Sort](./array/280.%20Wiggle%20Sort.md)
 - [287. Find the Duplicate Number](./array/287.%20Find%20the%20Duplicate%20Number.md)
+- [380. Insert Delete GetRandom O(1)](./array/380.%20Insert%20Delete%20GetRandom%20O(1).md)
+- [384. Shuffle an Array](./array/384.%20Shuffle%20an%20Array.md)
 
 
 ## Backtracking
@@ -42,6 +44,8 @@ Total Problems: 42
 - [55. Jump Game](./dynamic_programming/55.%20Jump%20Game.md)
 - [64. Minimum Path Sum](./dynamic_programming/64.%20Minimum%20Path%20Sum.md)
 - [152. Maximum Product Subarray](./dynamic_programming/152.%20Maximum%20Product%20Subarray.md)
+- [198. House Robber](./dynamic_programming/198.%20House%20Robber.md)
+- [213. House Robber II](./dynamic_programming/213.%20House%20Robber%20II.md)
 
 
 ## Tree
