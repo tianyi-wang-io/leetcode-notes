@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :smirk: 
 
-Total Problems: 46 
+Total Problems: 49 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -27,6 +27,7 @@ Total Problems: 46
 - [287. Find the Duplicate Number](./array/287.%20Find%20the%20Duplicate%20Number.md)
 - [380. Insert Delete GetRandom O(1)](./array/380.%20Insert%20Delete%20GetRandom%20O(1).md)
 - [384. Shuffle an Array](./array/384.%20Shuffle%20an%20Array.md)
+- [419. Battleships in a Board](./array/419.%20Battleships%20in%20a%20Board.md)
 
 
 ## Backtracking
@@ -60,5 +61,7 @@ Total Problems: 46
 - [117. Populating Next Right Pointers in Each Node II](./tree/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
 - [173. Binary Search Tree Iterator](./tree/173.%20Binary%20Search%20Tree%20Iterator.md)
 - [222. Count Complete Tree Nodes](./tree/222.%20Count%20Complete%20Tree%20Nodes.md)
+- [250. Count Univalue Subtrees](./tree/250.%20Count%20Univalue%20Subtrees.md)
 - [298. Binary Tree Longest Consecutive Sequence](./tree/298.%20Binary%20Tree%20Longest%20Consecutive%20Sequence.md)
+- [543. Diameter of Binary Tree](./tree/543.%20Diameter%20of%20Binary%20Tree.md)
 
