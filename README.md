@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :smirk: 
 
-Total Problems: 51 
+Total Problems: 53 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -66,4 +66,6 @@ Total Problems: 51
 - [337. House Robber III](./tree/337.%20House%20Robber%20III.md)
 - [543. Diameter of Binary Tree](./tree/543.%20Diameter%20of%20Binary%20Tree.md)
 - [549. Binary Tree Longest Consecutive Sequence II](./tree/549.%20Binary%20Tree%20Longest%20Consecutive%20Sequence%20II.md)
+- [652. Find Duplicate Subtrees](./tree/652.%20Find%20Duplicate%20Subtrees.md)
+- [654. Maximum Binary Tree](./tree/654.%20Maximum%20Binary%20Tree.md)
 
