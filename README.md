@@ -1,6 +1,6 @@
-# :computer: Notes for Leetcoding. :smirk: 
+# :computer::swimmer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 53 
+Total Problems: 56 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -28,6 +28,8 @@ Total Problems: 53
 - [380. Insert Delete GetRandom O(1)](./array/380.%20Insert%20Delete%20GetRandom%20O(1).md)
 - [384. Shuffle an Array](./array/384.%20Shuffle%20an%20Array.md)
 - [419. Battleships in a Board](./array/419.%20Battleships%20in%20a%20Board.md)
+- [498. Diagonal Traverse](./array/498.%20Diagonal%20Traverse.md)
+- [560. Subarray Sum Equals K](./array/560.%20Subarray%20Sum%20Equals%20K.md)
 
 
 ## Backtracking
@@ -47,6 +49,7 @@ Total Problems: 53
 - [152. Maximum Product Subarray](./dynamic_programming/152.%20Maximum%20Product%20Subarray.md)
 - [198. House Robber](./dynamic_programming/198.%20House%20Robber.md)
 - [213. House Robber II](./dynamic_programming/213.%20House%20Robber%20II.md)
+- [562. Longest Line of Consecutive One in Matrix](./dynamic_programming/562.%20Longest%20Line%20of%20Consecutive%20One%20in%20Matrix.md)
 
 
 ## Tree
