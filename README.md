@@ -1,6 +1,6 @@
-# :computer: Notes for Leetcoding. :smirk: 
+# :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 53 
+Total Problems: 59 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -13,7 +13,6 @@ Total Problems: 53
 - [59. Spiral Matrix II](./array/59.%20Spiral%20Matrix%20II.md)
 - [62. Unique Paths](./array/62.%20Unique%20Paths.md)
 - [66. Plus One](./array/66.%20Plus%20One.md)
-- [79. Word Search](./array/79.%20Word%20Search.md)
 - [84. Largest Rectangle in Histogram](./array/84.%20Largest%20Rectangle%20in%20Histogram.md)
 - [88. Merge Sorted Array](./array/88.%20Merge%20Sorted%20Array.md)
 - [121. Best Time to Buy and Sell Stock](./array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
@@ -27,7 +26,10 @@ Total Problems: 53
 - [287. Find the Duplicate Number](./array/287.%20Find%20the%20Duplicate%20Number.md)
 - [380. Insert Delete GetRandom O(1)](./array/380.%20Insert%20Delete%20GetRandom%20O(1).md)
 - [384. Shuffle an Array](./array/384.%20Shuffle%20an%20Array.md)
-- [419. Battleships in a Board](./array/419.%20Battleships%20in%20a%20Board.md)
+- [498. Diagonal Traverse](./array/498.%20Diagonal%20Traverse.md)
+- [560. Subarray Sum Equals K](./array/560.%20Subarray%20Sum%20Equals%20K.md)
+- [729. My Calendar I](./array/729.%20My%20Calendar%20I.md)
+- [731. My Calendar II](./array/731.%20My%20Calendar%20II.md)
 
 
 ## Backtracking
@@ -41,12 +43,19 @@ Total Problems: 53
 - [162. Find Peak Element](./binary_search/162.%20Find%20Peak%20Element.md)
 
 
+## Dfs Bfs
+- [79. Word Search](./dfs_bfs/79.%20Word%20Search.md)
+- [419. Battleships in a Board](./dfs_bfs/419.%20Battleships%20in%20a%20Board.md)
+- [695. Max Area of Island](./dfs_bfs/695.%20Max%20Area%20of%20Island.md)
+
+
 ## Dynamic Programming
 - [55. Jump Game](./dynamic_programming/55.%20Jump%20Game.md)
 - [64. Minimum Path Sum](./dynamic_programming/64.%20Minimum%20Path%20Sum.md)
 - [152. Maximum Product Subarray](./dynamic_programming/152.%20Maximum%20Product%20Subarray.md)
 - [198. House Robber](./dynamic_programming/198.%20House%20Robber.md)
 - [213. House Robber II](./dynamic_programming/213.%20House%20Robber%20II.md)
+- [562. Longest Line of Consecutive One in Matrix](./dynamic_programming/562.%20Longest%20Line%20of%20Consecutive%20One%20in%20Matrix.md)
 
 
 ## Tree
