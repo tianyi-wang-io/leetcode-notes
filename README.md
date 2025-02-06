@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 59 
+Total Problems: 63 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -28,8 +28,10 @@ Total Problems: 59
 - [384. Shuffle an Array](./array/384.%20Shuffle%20an%20Array.md)
 - [498. Diagonal Traverse](./array/498.%20Diagonal%20Traverse.md)
 - [560. Subarray Sum Equals K](./array/560.%20Subarray%20Sum%20Equals%20K.md)
+- [723. Candy Crush](./array/723.%20Candy%20Crush.md)
 - [729. My Calendar I](./array/729.%20My%20Calendar%20I.md)
 - [731. My Calendar II](./array/731.%20My%20Calendar%20II.md)
+- [769. Max Chunks To Make Sorted](./array/769.%20Max%20Chunks%20To%20Make%20Sorted.md)
 
 
 ## Backtracking
@@ -77,4 +79,6 @@ Total Problems: 59
 - [549. Binary Tree Longest Consecutive Sequence II](./tree/549.%20Binary%20Tree%20Longest%20Consecutive%20Sequence%20II.md)
 - [652. Find Duplicate Subtrees](./tree/652.%20Find%20Duplicate%20Subtrees.md)
 - [654. Maximum Binary Tree](./tree/654.%20Maximum%20Binary%20Tree.md)
+- [662. Maximum Width of Binary Tree](./tree/662.%20Maximum%20Width%20of%20Binary%20Tree.md)
+- [669. Trim a Binary Search Tree](./tree/669.%20Trim%20a%20Binary%20Search%20Tree.md)
 
