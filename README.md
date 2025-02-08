@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 64 
+Total Problems: 65 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -33,6 +33,7 @@ Total Problems: 64
 - [731. My Calendar II](./array/731.%20My%20Calendar%20II.md)
 - [769. Max Chunks To Make Sorted](./array/769.%20Max%20Chunks%20To%20Make%20Sorted.md)
 - [792. Number of Matching Subsequences](./array/792.%20Number%20of%20Matching%20Subsequences.md)
+- [840. Magic Squares In Grid](./array/840.%20Magic%20Squares%20In%20Grid.md)
 
 
 ## Backtracking
