@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 65 
+Total Problems: 68 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -15,6 +15,7 @@ Total Problems: 65
 - [66. Plus One](./array/66.%20Plus%20One.md)
 - [84. Largest Rectangle in Histogram](./array/84.%20Largest%20Rectangle%20in%20Histogram.md)
 - [88. Merge Sorted Array](./array/88.%20Merge%20Sorted%20Array.md)
+- [90. Subsets II](./array/90.%20Subsets%20II.md)
 - [121. Best Time to Buy and Sell Stock](./array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 - [122. Best Time to Buy and Sell Stock II](./array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
 - [169. Majority Element](./array/169.%20Majority%20Element.md)
@@ -34,6 +35,8 @@ Total Problems: 65
 - [769. Max Chunks To Make Sorted](./array/769.%20Max%20Chunks%20To%20Make%20Sorted.md)
 - [792. Number of Matching Subsequences](./array/792.%20Number%20of%20Matching%20Subsequences.md)
 - [840. Magic Squares In Grid](./array/840.%20Magic%20Squares%20In%20Grid.md)
+- [914. X of a Kind in a Deck of Cards](./array/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.md)
+- [941. Valid Mountain Array](./array/941.%20Valid%20Mountain%20Array.md)
 
 
 ## Backtracking
