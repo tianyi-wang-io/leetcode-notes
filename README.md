@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 68 
+Total Problems: 69 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -37,6 +37,7 @@ Total Problems: 68
 - [840. Magic Squares In Grid](./array/840.%20Magic%20Squares%20In%20Grid.md)
 - [914. X of a Kind in a Deck of Cards](./array/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.md)
 - [941. Valid Mountain Array](./array/941.%20Valid%20Mountain%20Array.md)
+- [950. Reveal Cards In Increasing Order](./array/950.%20Reveal%20Cards%20In%20Increasing%20Order.md)
 
 
 ## Backtracking
