@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 69 
+Total Problems: 71 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -38,6 +38,7 @@ Total Problems: 69
 - [914. X of a Kind in a Deck of Cards](./array/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.md)
 - [941. Valid Mountain Array](./array/941.%20Valid%20Mountain%20Array.md)
 - [950. Reveal Cards In Increasing Order](./array/950.%20Reveal%20Cards%20In%20Increasing%20Order.md)
+- [1007. Minimum Domino Rotations For Equal Row](./array/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md)
 
 
 ## Backtracking
@@ -49,6 +50,7 @@ Total Problems: 69
 - [34. Find First and Last Position of Element in Sorted Array](./binary_search/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
 - [153. Find Minimum in Rotated Sorted Array](./binary_search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 - [162. Find Peak Element](./binary_search/162.%20Find%20Peak%20Element.md)
+- [1011. Capacity To Ship Packages Within D Days](./binary_search/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md)
 
 
 ## Dfs Bfs
