@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 71 
+Total Problems: 73 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -39,6 +39,7 @@ Total Problems: 71
 - [941. Valid Mountain Array](./array/941.%20Valid%20Mountain%20Array.md)
 - [950. Reveal Cards In Increasing Order](./array/950.%20Reveal%20Cards%20In%20Increasing%20Order.md)
 - [1007. Minimum Domino Rotations For Equal Row](./array/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md)
+- [1296. Divide Array in Sets of K Consecutive Numbers](./array/1296.%20Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers.md)
 
 
 ## Backtracking
@@ -66,6 +67,7 @@ Total Problems: 71
 - [198. House Robber](./dynamic_programming/198.%20House%20Robber.md)
 - [213. House Robber II](./dynamic_programming/213.%20House%20Robber%20II.md)
 - [562. Longest Line of Consecutive One in Matrix](./dynamic_programming/562.%20Longest%20Line%20of%20Consecutive%20One%20in%20Matrix.md)
+- [1277. Count Square Submatrices with All Ones](./dynamic_programming/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones.md)
 
 
 ## Tree
