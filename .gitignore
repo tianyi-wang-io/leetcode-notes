@@ -1,6 +1,5 @@
 # Ignore notebook files
 *.ipynb
-*.py
 
 # Ignore OS-generated files
 .DS_Store
