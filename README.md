@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 74 
+Total Problems: 76 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -41,6 +41,8 @@ Total Problems: 74
 - [1007. Minimum Domino Rotations For Equal Row](./array/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md)
 - [1296. Divide Array in Sets of K Consecutive Numbers](./array/1296.%20Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers.md)
 - [1352. Product of the Last K Numbers](./array/1352.%20Product%20of%20the%20Last%20K%20Numbers.md)
+- [1366. Rank Teams by Votes](./array/1366.%20Rank%20Teams%20by%20Votes.md)
+- [1432. Max Difference You Can Get From Changing an Integer](./array/1432.%20Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer.md)
 
 
 ## Backtracking
