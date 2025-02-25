@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 76 
+Total Problems: 77 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -47,6 +47,7 @@ Total Problems: 76
 
 ## Backtracking
 - [78. Subsets](./backtracking/78.%20Subsets.md)
+- [211. Design Add and Search Words Data Structure](./backtracking/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)
 
 
 ## Binary Search
