@@ -47,7 +47,6 @@ Total Problems: 78
 
 ## Backtracking
 - [78. Subsets](./backtracking/78.%20Subsets.md)
-- [211. Design Add and Search Words Data Structure](./backtracking/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)
 - [267. Palindrome Permutation II](./backtracking/267.%20Palindrome%20Permutation%20II.md)
 
 
@@ -96,4 +95,8 @@ Total Problems: 78
 - [654. Maximum Binary Tree](./tree/654.%20Maximum%20Binary%20Tree.md)
 - [662. Maximum Width of Binary Tree](./tree/662.%20Maximum%20Width%20of%20Binary%20Tree.md)
 - [669. Trim a Binary Search Tree](./tree/669.%20Trim%20a%20Binary%20Search%20Tree.md)
+
+
+## Trie
+- [211. Design Add and Search Words Data Structure](./trie/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)
 
