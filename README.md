@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 79 
+Total Problems: 80 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -22,6 +22,7 @@ Total Problems: 79
 - [209. Minimum Size Subarray Sum](./array/209.%20Minimum%20Size%20Subarray%20Sum.md)
 - [228. Summary Ranges](./array/228.%20Summary%20Ranges.md)
 - [238. Product of Array Except Self](./array/238.%20Product%20of%20Array%20Except%20Self.md)
+- [240. Search a 2D Matrix II](./array/240.%20Search%20a%202D%20Matrix%20II.md)
 - [259. 3Sum Smaller](./array/259.%203Sum%20Smaller.md)
 - [280. Wiggle Sort](./array/280.%20Wiggle%20Sort.md)
 - [287. Find the Duplicate Number](./array/287.%20Find%20the%20Duplicate%20Number.md)
@@ -56,6 +57,7 @@ Total Problems: 79
 - [34. Find First and Last Position of Element in Sorted Array](./binary_search/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
 - [153. Find Minimum in Rotated Sorted Array](./binary_search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 - [162. Find Peak Element](./binary_search/162.%20Find%20Peak%20Element.md)
+- [222. Count Complete Tree Nodes](./binary_search/222.%20Count%20Complete%20Tree%20Nodes.md)
 - [1011. Capacity To Ship Packages Within D Days](./binary_search/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md)
 
 
@@ -86,7 +88,6 @@ Total Problems: 79
 - [116. Populating Next Right Pointers in Each Node](./tree/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
 - [117. Populating Next Right Pointers in Each Node II](./tree/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
 - [173. Binary Search Tree Iterator](./tree/173.%20Binary%20Search%20Tree%20Iterator.md)
-- [222. Count Complete Tree Nodes](./tree/222.%20Count%20Complete%20Tree%20Nodes.md)
 - [250. Count Univalue Subtrees](./tree/250.%20Count%20Univalue%20Subtrees.md)
 - [298. Binary Tree Longest Consecutive Sequence](./tree/298.%20Binary%20Tree%20Longest%20Consecutive%20Sequence.md)
 - [337. House Robber III](./tree/337.%20House%20Robber%20III.md)
