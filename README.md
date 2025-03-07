@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 80 
+Total Problems: 81 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -58,6 +58,7 @@ Total Problems: 80
 - [153. Find Minimum in Rotated Sorted Array](./binary_search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 - [162. Find Peak Element](./binary_search/162.%20Find%20Peak%20Element.md)
 - [222. Count Complete Tree Nodes](./binary_search/222.%20Count%20Complete%20Tree%20Nodes.md)
+- [300. Longest Increasing Subsequence](./binary_search/300.%20Longest%20Increasing%20Subsequence.md)
 - [1011. Capacity To Ship Packages Within D Days](./binary_search/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md)
 
 
