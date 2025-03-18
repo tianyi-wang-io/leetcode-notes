@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 81 
+Total Problems: 85 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -26,6 +26,7 @@ Total Problems: 81
 - [259. 3Sum Smaller](./array/259.%203Sum%20Smaller.md)
 - [280. Wiggle Sort](./array/280.%20Wiggle%20Sort.md)
 - [287. Find the Duplicate Number](./array/287.%20Find%20the%20Duplicate%20Number.md)
+- [378. Kth Smallest Element in a Sorted Matrix](./array/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md)
 - [380. Insert Delete GetRandom O(1)](./array/380.%20Insert%20Delete%20GetRandom%20O(1).md)
 - [384. Shuffle an Array](./array/384.%20Shuffle%20an%20Array.md)
 - [498. Diagonal Traverse](./array/498.%20Diagonal%20Traverse.md)
@@ -59,6 +60,9 @@ Total Problems: 81
 - [162. Find Peak Element](./binary_search/162.%20Find%20Peak%20Element.md)
 - [222. Count Complete Tree Nodes](./binary_search/222.%20Count%20Complete%20Tree%20Nodes.md)
 - [300. Longest Increasing Subsequence](./binary_search/300.%20Longest%20Increasing%20Subsequence.md)
+- [528. Random Pick with Weight](./binary_search/528.%20Random%20Pick%20with%20Weight.md)
+- [540. Single Element in a Sorted Array](./binary_search/540.%20Single%20Element%20in%20a%20Sorted%20Array.md)
+- [702. Search in a Sorted Array of Unknown Size](./binary_search/702.%20Search%20in%20a%20Sorted%20Array%20of%20Unknown%20Size.md)
 - [1011. Capacity To Ship Packages Within D Days](./binary_search/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md)
 
 
