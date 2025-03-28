@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 87 
+Total Problems: 88 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -66,6 +66,10 @@ Total Problems: 87
 - [981. Time Based Key-Value Store](./binary_search/981.%20Time%20Based%20Key-Value%20Store.md)
 - [1011. Capacity To Ship Packages Within D Days](./binary_search/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md)
 - [1060. Missing Element in Sorted Array](./binary_search/1060.%20Missing%20Element%20in%20Sorted%20Array.md)
+
+
+## Design
+- [146. LRU Cache](./design/146.%20LRU%20Cache.md)
 
 
 ## Dfs Bfs
