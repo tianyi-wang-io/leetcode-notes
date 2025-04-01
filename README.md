@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 88 
+Total Problems: 89 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -111,5 +111,6 @@ Total Problems: 88
 
 
 ## Trie
+- [208. Implement Trie (Prefix Tree)](./trie/208.%20Implement%20Trie%20(Prefix%20Tree).md)
 - [211. Design Add and Search Words Data Structure](./trie/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)
 
