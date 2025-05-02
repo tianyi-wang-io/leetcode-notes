@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 89 
+Total Problems: 91 
 
 ## Array
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
@@ -70,6 +70,7 @@ Total Problems: 89
 
 ## Design
 - [146. LRU Cache](./design/146.%20LRU%20Cache.md)
+- [346. Moving Average from Data Stream](./design/346.%20Moving%20Average%20from%20Data%20Stream.md)
 
 
 ## Dfs Bfs
@@ -85,6 +86,7 @@ Total Problems: 89
 - [198. House Robber](./dynamic_programming/198.%20House%20Robber.md)
 - [213. House Robber II](./dynamic_programming/213.%20House%20Robber%20II.md)
 - [562. Longest Line of Consecutive One in Matrix](./dynamic_programming/562.%20Longest%20Line%20of%20Consecutive%20One%20in%20Matrix.md)
+- [1031. Maximum Sum of Two Non-Overlapping Subarrays](./dynamic_programming/1031.%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays.md)
 - [1277. Count Square Submatrices with All Ones](./dynamic_programming/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones.md)
 
 
