@@ -1,8 +1,9 @@
 # :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 91 
+Total Problems: 92 
 
 ## Array
+- [5. Longest Palindromic Substring](./array/5.%20Longest%20Palindromic%20Substring.md)
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
 - [15. 3Sum](./array/15.%203Sum.md)
 - [16. 3Sum Closest](./array/16.%203Sum%20Closest.md)
