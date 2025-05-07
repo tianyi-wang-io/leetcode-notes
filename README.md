@@ -1,10 +1,11 @@
 # :computer: Notes for Leetcoding. :swimmer: 
 
-Total Problems: 92 
+Total Problems: 94 
 
 ## Array
 - [5. Longest Palindromic Substring](./array/5.%20Longest%20Palindromic%20Substring.md)
 - [11. Container With Most Water](./array/11.%20Container%20With%20Most%20Water.md)
+- [14. Longest Common Prefix](./array/14.%20Longest%20Common%20Prefix.md)
 - [15. 3Sum](./array/15.%203Sum.md)
 - [16. 3Sum Closest](./array/16.%203Sum%20Closest.md)
 - [18. 4Sum](./array/18.%204Sum.md)
@@ -83,6 +84,7 @@ Total Problems: 92
 ## Dynamic Programming
 - [55. Jump Game](./dynamic_programming/55.%20Jump%20Game.md)
 - [64. Minimum Path Sum](./dynamic_programming/64.%20Minimum%20Path%20Sum.md)
+- [72. Edit Distance](./dynamic_programming/72.%20Edit%20Distance.md)
 - [152. Maximum Product Subarray](./dynamic_programming/152.%20Maximum%20Product%20Subarray.md)
 - [198. House Robber](./dynamic_programming/198.%20House%20Robber.md)
 - [213. House Robber II](./dynamic_programming/213.%20House%20Robber%20II.md)
