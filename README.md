@@ -1,6 +1,6 @@
-# :computer: Notes for Leetcoding. :swimmer: 
+# :computer: Notes for Leetcoding :swimmer: 
 
-Total Problems: 94 
+Total Problems: 96 
 
 ## Array
 - [5. Longest Palindromic Substring](./array/5.%20Longest%20Palindromic%20Substring.md)
@@ -15,11 +15,13 @@ Total Problems: 94
 - [59. Spiral Matrix II](./array/59.%20Spiral%20Matrix%20II.md)
 - [62. Unique Paths](./array/62.%20Unique%20Paths.md)
 - [66. Plus One](./array/66.%20Plus%20One.md)
+- [76. Minimum Window Substring](./array/76.%20Minimum%20Window%20Substring.md)
 - [84. Largest Rectangle in Histogram](./array/84.%20Largest%20Rectangle%20in%20Histogram.md)
 - [88. Merge Sorted Array](./array/88.%20Merge%20Sorted%20Array.md)
 - [90. Subsets II](./array/90.%20Subsets%20II.md)
 - [121. Best Time to Buy and Sell Stock](./array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 - [122. Best Time to Buy and Sell Stock II](./array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
+- [165. Compare Version Numbers](./array/165.%20Compare%20Version%20Numbers.md)
 - [169. Majority Element](./array/169.%20Majority%20Element.md)
 - [209. Minimum Size Subarray Sum](./array/209.%20Minimum%20Size%20Subarray%20Sum.md)
 - [228. Summary Ranges](./array/228.%20Summary%20Ranges.md)

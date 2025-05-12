@@ -33,6 +33,6 @@ for h, i in bookmarks.items():
 
 
 with open('README.md', 'w', encoding='utf-8') as f:
-    f.write('# :computer: Notes for Leetcoding. :swimmer: \n\n')
+    f.write('# :computer: Notes for Leetcoding :swimmer: \n\n')
     f.write(f'Total Problems: {len(problems)} \n\n')
     f.write(covnert_to_md(bookmarks))
