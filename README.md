@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding :swimmer: 
 
-Total Problems: 96 
+Total Problems: 97 
 
 ## Array
 - [5. Longest Palindromic Substring](./array/5.%20Longest%20Palindromic%20Substring.md)
@@ -24,6 +24,7 @@ Total Problems: 96
 - [165. Compare Version Numbers](./array/165.%20Compare%20Version%20Numbers.md)
 - [169. Majority Element](./array/169.%20Majority%20Element.md)
 - [209. Minimum Size Subarray Sum](./array/209.%20Minimum%20Size%20Subarray%20Sum.md)
+- [227. Basic Calculator II](./array/227.%20Basic%20Calculator%20II.md)
 - [228. Summary Ranges](./array/228.%20Summary%20Ranges.md)
 - [238. Product of Array Except Self](./array/238.%20Product%20of%20Array%20Except%20Self.md)
 - [240. Search a 2D Matrix II](./array/240.%20Search%20a%202D%20Matrix%20II.md)
