@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding :swimmer: 
 
-Total Problems: 97 
+Total Problems: 99 
 
 ## Array
 - [5. Longest Palindromic Substring](./array/5.%20Longest%20Palindromic%20Substring.md)
@@ -29,11 +29,13 @@ Total Problems: 97
 - [238. Product of Array Except Self](./array/238.%20Product%20of%20Array%20Except%20Self.md)
 - [240. Search a 2D Matrix II](./array/240.%20Search%20a%202D%20Matrix%20II.md)
 - [259. 3Sum Smaller](./array/259.%203Sum%20Smaller.md)
+- [271. Encode and Decode Strings](./array/271.%20Encode%20and%20Decode%20Strings.md)
 - [280. Wiggle Sort](./array/280.%20Wiggle%20Sort.md)
 - [287. Find the Duplicate Number](./array/287.%20Find%20the%20Duplicate%20Number.md)
 - [378. Kth Smallest Element in a Sorted Matrix](./array/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md)
 - [380. Insert Delete GetRandom O(1)](./array/380.%20Insert%20Delete%20GetRandom%20O(1).md)
 - [384. Shuffle an Array](./array/384.%20Shuffle%20an%20Array.md)
+- [443. String Compression](./array/443.%20String%20Compression.md)
 - [498. Diagonal Traverse](./array/498.%20Diagonal%20Traverse.md)
 - [560. Subarray Sum Equals K](./array/560.%20Subarray%20Sum%20Equals%20K.md)
 - [723. Candy Crush](./array/723.%20Candy%20Crush.md)
