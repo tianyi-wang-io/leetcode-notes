@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding :swimmer: 
 
-Total Problems: 100 
+Total Problems: 101 
 
 ## Array
 - [5. Longest Palindromic Substring](./array/5.%20Longest%20Palindromic%20Substring.md)
@@ -38,6 +38,7 @@ Total Problems: 100
 - [443. String Compression](./array/443.%20String%20Compression.md)
 - [459. Repeated Substring Pattern](./array/459.%20Repeated%20Substring%20Pattern.md)
 - [498. Diagonal Traverse](./array/498.%20Diagonal%20Traverse.md)
+- [551. Student Attendance Record I](./array/551.%20Student%20Attendance%20Record%20I.md)
 - [560. Subarray Sum Equals K](./array/560.%20Subarray%20Sum%20Equals%20K.md)
 - [723. Candy Crush](./array/723.%20Candy%20Crush.md)
 - [729. My Calendar I](./array/729.%20My%20Calendar%20I.md)
