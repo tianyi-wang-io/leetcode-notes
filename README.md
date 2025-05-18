@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding :swimmer: 
 
-Total Problems: 102 
+Total Problems: 103 
 
 ## Array
 - [5. Longest Palindromic Substring](./array/5.%20Longest%20Palindromic%20Substring.md)
@@ -61,6 +61,7 @@ Total Problems: 102
 - [78. Subsets](./backtracking/78.%20Subsets.md)
 - [267. Palindrome Permutation II](./backtracking/267.%20Palindrome%20Permutation%20II.md)
 - [351. Android Unlock Patterns](./backtracking/351.%20Android%20Unlock%20Patterns.md)
+- [681. Next Closest Time](./backtracking/681.%20Next%20Closest%20Time.md)
 
 
 ## Binary Search
