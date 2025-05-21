@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding :swimmer: 
 
-Total Problems: 104 
+Total Problems: 105 
 
 ## Array
 - [5. Longest Palindromic Substring](./array/5.%20Longest%20Palindromic%20Substring.md)
@@ -47,6 +47,7 @@ Total Problems: 104
 - [731. My Calendar II](./array/731.%20My%20Calendar%20II.md)
 - [769. Max Chunks To Make Sorted](./array/769.%20Max%20Chunks%20To%20Make%20Sorted.md)
 - [792. Number of Matching Subsequences](./array/792.%20Number%20of%20Matching%20Subsequences.md)
+- [809. Expressive Words](./array/809.%20Expressive%20Words.md)
 - [840. Magic Squares In Grid](./array/840.%20Magic%20Squares%20In%20Grid.md)
 - [914. X of a Kind in a Deck of Cards](./array/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.md)
 - [941. Valid Mountain Array](./array/941.%20Valid%20Mountain%20Array.md)
