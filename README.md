@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding :swimmer: 
 
-Total Problems: 105 
+Total Problems: 107 
 
 ## Array
 - [5. Longest Palindromic Substring](./array/5.%20Longest%20Palindromic%20Substring.md)
@@ -49,6 +49,7 @@ Total Problems: 105
 - [792. Number of Matching Subsequences](./array/792.%20Number%20of%20Matching%20Subsequences.md)
 - [809. Expressive Words](./array/809.%20Expressive%20Words.md)
 - [840. Magic Squares In Grid](./array/840.%20Magic%20Squares%20In%20Grid.md)
+- [883. Projection Area of 3D Shapes](./array/883.%20Projection%20Area%20of%203D%20Shapes.md)
 - [914. X of a Kind in a Deck of Cards](./array/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.md)
 - [941. Valid Mountain Array](./array/941.%20Valid%20Mountain%20Array.md)
 - [950. Reveal Cards In Increasing Order](./array/950.%20Reveal%20Cards%20In%20Increasing%20Order.md)
@@ -101,6 +102,7 @@ Total Problems: 105
 - [213. House Robber II](./dynamic_programming/213.%20House%20Robber%20II.md)
 - [562. Longest Line of Consecutive One in Matrix](./dynamic_programming/562.%20Longest%20Line%20of%20Consecutive%20One%20in%20Matrix.md)
 - [1031. Maximum Sum of Two Non-Overlapping Subarrays](./dynamic_programming/1031.%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays.md)
+- [1062. Longest Repeating Substring](./dynamic_programming/1062.%20Longest%20Repeating%20Substring.md)
 - [1277. Count Square Submatrices with All Ones](./dynamic_programming/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones.md)
 
 
