@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding :swimmer: 
 
-Total Problems: 109 
+Total Problems: 111 
 
 ## Array
 - [5. Longest Palindromic Substring](./array/5.%20Longest%20Palindromic%20Substring.md)
@@ -37,6 +37,7 @@ Total Problems: 109
 - [384. Shuffle an Array](./array/384.%20Shuffle%20an%20Array.md)
 - [443. String Compression](./array/443.%20String%20Compression.md)
 - [459. Repeated Substring Pattern](./array/459.%20Repeated%20Substring%20Pattern.md)
+- [462. Minimum Moves to Equal Array Elements II](./array/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.md)
 - [498. Diagonal Traverse](./array/498.%20Diagonal%20Traverse.md)
 - [551. Student Attendance Record I](./array/551.%20Student%20Attendance%20Record%20I.md)
 - [560. Subarray Sum Equals K](./array/560.%20Subarray%20Sum%20Equals%20K.md)
@@ -87,6 +88,7 @@ Total Problems: 109
 - [284. Peeking Iterator](./design/284.%20Peeking%20Iterator.md)
 - [346. Moving Average from Data Stream](./design/346.%20Moving%20Average%20from%20Data%20Stream.md)
 - [353. Design Snake Game](./design/353.%20Design%20Snake%20Game.md)
+- [362. Design Hit Counter](./design/362.%20Design%20Hit%20Counter.md)
 
 
 ## Dfs Bfs
