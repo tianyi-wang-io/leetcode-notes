@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding :swimmer: 
 
-Total Problems: 111 
+Total Problems: 112 
 
 ## Array
 - [5. Longest Palindromic Substring](./array/5.%20Longest%20Palindromic%20Substring.md)
@@ -89,6 +89,7 @@ Total Problems: 111
 - [346. Moving Average from Data Stream](./design/346.%20Moving%20Average%20from%20Data%20Stream.md)
 - [353. Design Snake Game](./design/353.%20Design%20Snake%20Game.md)
 - [362. Design Hit Counter](./design/362.%20Design%20Hit%20Counter.md)
+- [604. Design Compressed String Iterator](./design/604.%20Design%20Compressed%20String%20Iterator.md)
 
 
 ## Dfs Bfs
