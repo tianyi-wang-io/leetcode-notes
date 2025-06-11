@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding :swimmer: 
 
-Total Problems: 112 
+Total Problems: 114 
 
 ## Array
 - [5. Longest Palindromic Substring](./array/5.%20Longest%20Palindromic%20Substring.md)
@@ -131,9 +131,11 @@ Total Problems: 112
 - [654. Maximum Binary Tree](./tree/654.%20Maximum%20Binary%20Tree.md)
 - [662. Maximum Width of Binary Tree](./tree/662.%20Maximum%20Width%20of%20Binary%20Tree.md)
 - [669. Trim a Binary Search Tree](./tree/669.%20Trim%20a%20Binary%20Search%20Tree.md)
+- [705. Design HashSet](./tree/705.%20Design%20HashSet.md)
 
 
 ## Trie
 - [208. Implement Trie (Prefix Tree)](./trie/208.%20Implement%20Trie%20(Prefix%20Tree).md)
 - [211. Design Add and Search Words Data Structure](./trie/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)
+- [642. Design Search Autocomplete System](./trie/642.%20Design%20Search%20Autocomplete%20System.md)
 
