@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding :swimmer: 
 
-Total Problems: 114 
+Total Problems: 116 
 
 ## Array
 - [5. Longest Palindromic Substring](./array/5.%20Longest%20Palindromic%20Substring.md)
@@ -90,10 +90,13 @@ Total Problems: 114
 - [353. Design Snake Game](./design/353.%20Design%20Snake%20Game.md)
 - [362. Design Hit Counter](./design/362.%20Design%20Hit%20Counter.md)
 - [604. Design Compressed String Iterator](./design/604.%20Design%20Compressed%20String%20Iterator.md)
+- [705. Design HashSet](./design/705.%20Design%20HashSet.md)
+- [706. Design HashMap](./design/706.%20Design%20HashMap.md)
 
 
 ## Dfs Bfs
 - [79. Word Search](./dfs_bfs/79.%20Word%20Search.md)
+- [127. Word Ladder](./dfs_bfs/127.%20Word%20Ladder.md)
 - [419. Battleships in a Board](./dfs_bfs/419.%20Battleships%20in%20a%20Board.md)
 - [695. Max Area of Island](./dfs_bfs/695.%20Max%20Area%20of%20Island.md)
 
@@ -131,7 +134,6 @@ Total Problems: 114
 - [654. Maximum Binary Tree](./tree/654.%20Maximum%20Binary%20Tree.md)
 - [662. Maximum Width of Binary Tree](./tree/662.%20Maximum%20Width%20of%20Binary%20Tree.md)
 - [669. Trim a Binary Search Tree](./tree/669.%20Trim%20a%20Binary%20Search%20Tree.md)
-- [705. Design HashSet](./tree/705.%20Design%20HashSet.md)
 
 
 ## Trie
