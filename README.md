@@ -1,6 +1,6 @@
 # :computer: Notes for Leetcoding :swimmer: 
 
-Total Problems: 116 
+Total Problems: 119 
 
 ## Array
 - [5. Longest Palindromic Substring](./array/5.%20Longest%20Palindromic%20Substring.md)
@@ -97,6 +97,9 @@ Total Problems: 116
 ## Dfs Bfs
 - [79. Word Search](./dfs_bfs/79.%20Word%20Search.md)
 - [127. Word Ladder](./dfs_bfs/127.%20Word%20Ladder.md)
+- [210. Course Schedule II](./dfs_bfs/210.%20Course%20Schedule%20II.md)
+- [279. Perfect Squares](./dfs_bfs/279.%20Perfect%20Squares.md)
+- [286. Walls and Gates](./dfs_bfs/286.%20Walls%20and%20Gates.md)
 - [419. Battleships in a Board](./dfs_bfs/419.%20Battleships%20in%20a%20Board.md)
 - [695. Max Area of Island](./dfs_bfs/695.%20Max%20Area%20of%20Island.md)
 
